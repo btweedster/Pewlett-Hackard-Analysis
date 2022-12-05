@@ -8,7 +8,7 @@ Given a database of employee and department information from the ficiticious com
 The following CSVs are exports of the source tables used for the analysis. They can be found in the [Data](Data) directory.
 - [employees.csv](Data/employees.csv)
 - [titles.csv](Data/titles.csv)
-- [dept_emp](Data/dept_emp.csv)
+- [dept_emp.csv](Data/dept_emp.csv)
 
 ### Queries
 - [Employee_Database_Challenge.sql](Employee_Database_Challenge.sql)
